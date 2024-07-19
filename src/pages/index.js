@@ -307,9 +307,7 @@ const IndexPage = () => {
             </Helmet>
             <main className="Main">
                 <div className="Heading">
-                    <h1>LUMS Course Scheduler</h1>
-
-                    <h2>Project Mirage (Unofficial Version)</h2>
+                    <h1>LUMS Course Scheduler | Project Mirage (Unofficial)</h1>
 
                     <h5>Updated Fall 2024 | 19th July 2024</h5>
 
