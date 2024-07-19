@@ -307,7 +307,7 @@ const IndexPage = () => {
             </Helmet>
             <main className="Main">
                 <div className="Heading">
-                    <h1>LUMS Course Scheduler | Project Mirage (Unofficial)</h1>
+                    <h1>LUMS Course Scheduler | Project Targaryen</h1>
 
                     <h5>Updated Fall 2024 | 19th July 2024</h5>
 
@@ -397,7 +397,7 @@ const IndexPage = () => {
                         2024
                     </p>
                     <div>
-                        <a href="https://pro-mirage.com">
+                        <a href="https://lumsscheduler.vercel.app/">
                             <img src={mirage} />
                         </a>
                     </div>
