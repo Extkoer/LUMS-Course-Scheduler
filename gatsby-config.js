@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "LUMS Course Scheduler | Fall 2021",
+    title: "LUMS Course Scheduler | Fall 2024",
   },
   plugins: ["gatsby-plugin-sass",
   {

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "description": "LUMS Course Scheduler",
-  "author": "Muhammad Faseeh Ud Din",
+  "author": "Khawaja Muzammil Ahmed Rendition of Faseeh's Project Mirage",
   "keywords": [
     "gatsby",
     "LUMS",
@@ -15,7 +15,9 @@
     "Project Mirage",
     "pro.mirage",
     "faseeh",
-    "Muhammad Faseeh Ud Din"
+    "Muhammad Faseeh Ud Din",
+    "Khawaja Muzammil Ahmed Version",
+    "25020104"
   ],
   "scripts": {
     "dev": "gatsby develop",
